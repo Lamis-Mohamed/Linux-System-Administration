@@ -5,7 +5,7 @@ Linux System Administration
 
 **Part 1:** 
 
-you will entirely learn how to manage and access different processes and statistics in a Linux environment. 
+manage and access different processes and statistics in a Linux environment. 
 
 **Requirements**
 
@@ -46,9 +46,11 @@ Check Swap Activities.
 
 **Part 2 : **
 
-This exercise is based on management of users accounts and creating of files. As linux security Administrator you should be able to assign different file permission and revoke permissions to unauthorized users. To improve your skills practice with this exercise.  
+This exercise is based on management of users accounts and creating of files. 
+As linux security Administrator you should be able to assign different file permission and revoke permissions to unauthorized users. 
+To improve your skills practice with this exercise.  
 
-Entirely use the Terminal utilization of GUI will not be awarded any marks. 
+Entirely use the Terminal
 
 Login to your terminal in Ubuntu. 
 
